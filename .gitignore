@@ -1,0 +1,6 @@
+# Ignore all node_modules anywhere in the repo
+**/node_modules/
+
+**/.env
+
+**/test/
