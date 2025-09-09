@@ -293,7 +293,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 <p align="center">
-  The development team would like to recognize the contributions of:<br><br>
   John A.<br>
   Jose J.<br>
   Nicholas L.<br>
