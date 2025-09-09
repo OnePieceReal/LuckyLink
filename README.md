@@ -295,8 +295,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <p align="center">
   John A.<br>
   Jose J.<br>
-  Nicholas L.<br>
-  Simon D.
+  Simon D.<br>
 </p>
 <p align="center">
   Built with ❤️ for connecting people through shared interests
