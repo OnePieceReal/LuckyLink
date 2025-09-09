@@ -28,7 +28,7 @@
    - [Environment Variables](#environment-variables)
    - [Installation](#installation)
 6. [License](#license)
-
+7. [Acknowledgements](#acknowledgements)
 ## Project Overview
 
 LuckyLink is a modern real-time chat application that connects users based on shared interests, fostering meaningful connections and expanding social circles. Built with cutting-edge technologies, it combines the spontaneity of random matching with the depth of interest-based connections.
@@ -290,7 +290,15 @@ npm start
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+## Acknowledgements
 
+<p align="center">
+  The development team would like to recognize the contributions of:<br><br>
+  John A.<br>
+  Jose J.<br>
+  Nicholas L.<br>
+  Simon D.
+</p>
 <p align="center">
   Built with ❤️ for connecting people through shared interests
 </p>
