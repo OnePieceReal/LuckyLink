@@ -297,6 +297,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   Jose J.<br>
   Simon D.<br>
 </p>
-<p align="center">
-  Built with ❤️ for connecting people through shared interests
-</p>
